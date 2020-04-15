@@ -1,0 +1,28 @@
+{
+    "name": "miniprogram-automator-snippets",
+    "displayName": "miniprogram-automator-snippets",
+    "description": "miniprogram-automator-snippets",
+    "version": "0.0.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ChaseKnowlden/miniprogram-automator-snippets"
+    },
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "keywords": [
+        "miniprogram",
+        "小程序"
+    ],
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
