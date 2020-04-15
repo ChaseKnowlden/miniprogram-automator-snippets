@@ -2,6 +2,7 @@
     "name": "miniprogram-automator-snippets",
     "displayName": "miniprogram-automator-snippets",
     "description": "miniprogram-automator-snippets",
+    "publisher": "ChaseKnowlden",
     "version": "0.0.2",
     "repository": {
         "type": "git",
